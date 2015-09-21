@@ -24,9 +24,9 @@ The run_analysis.R file will get and clean data from the following files:
 6.  Prepare a tidy data set with the average of each variable for each activity and each subject.
 
 ##Output columns
-*Subject                     
-*ActivityDesc                
-*tBodyAcc-mean()-X          
+Subject                     
+ActivityDesc                
+tBodyAcc-mean()-X          
 tBodyAcc-mean()-Y           
 tBodyAcc-mean()-Z           
 tBodyAcc-std()-X           
